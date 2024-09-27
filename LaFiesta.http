@@ -1,0 +1,6 @@
+@LaFiesta_HostAddress = http://localhost:5166
+
+GET {{LaFiesta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
